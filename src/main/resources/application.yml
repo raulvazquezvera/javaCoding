@@ -1,0 +1,9 @@
+placeholder:
+  url: https://jsonplaceholder.typicode.com
+  resource:
+    posts: /posts
+    comments: /comments
+  json:
+    filename: JSONposts.json
+  xml:
+    filename: XMLposts.xml
